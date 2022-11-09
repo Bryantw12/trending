@@ -1,10 +1,19 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Nabla&family=Quicksand:wght@300;400;500;600;700&display=swap');
+
 main{
     max-width: 700px;
     margin: 0 auto;
 } 
 
 body {
-    background-color: black;
+
+
+    font-family: 'Nabla', cursive;
+    font-family: 'Quicksand', sans-serif;
+    color:rgb(255, 255, 255);
+    background-color: rgb(67, 71, 74);
+    font-style: italic;
 
 }
 
