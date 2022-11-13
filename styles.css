@@ -12,12 +12,26 @@ body {
     font-family: 'Nabla', cursive;
     font-family: 'Quicksand', sans-serif;
     color:rgb(255, 255, 255);
-    background-color: rgb(67, 71, 74);
+    background-color:rgb(59, 51, 51);
     font-style: italic;
 
 }
 
 nav  {
-    color: red;
+    color: red !important;
+    font-family: 'Amaranth', sans-serif;
 
+}
+
+nav a {
+    color: white;
+}
+h1 {
+
+
+    font-family: 'Nabla', cursive;
+    color: red;
+}
+.px-2 h2 {
+    font-family: 'Nabla', cursive;
 }
